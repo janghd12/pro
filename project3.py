@@ -1,6 +1,6 @@
 price = [23, 40, 67]
 for i in price:
-    i * 1.1
+    print(i * 1.1)
     
  def service_price():
         service = input('서비스 종류를 입력하세요, a/b/c: ')
